@@ -1,0 +1,53 @@
+/* div
+{
+    background-color: bisque;
+
+}
+span
+{
+    font-size:50px;
+}
+h1
+{
+  color:blue;
+  font-size:20px;
+}
+p{
+    font-weight: bold;
+}
+#para{
+    color:red;
+}
+.imgone{
+    width: 100px;
+    height: 100px;
+}
+#one{
+background-color: saddlebrown;
+position: sticky;
+//top:10px;
+}
+#two{
+background-color: sandybrown;
+}
+#three{
+background-color: seagreen;
+}
+div{
+    height: 600px;
+} */
+body{
+    height: 600px;
+    margin: 0;
+}
+table{
+    background-color: black;
+    width:100%;
+    position: fixed;
+}
+tr{
+    color: white;
+}
+a{
+    color:white;
+}
